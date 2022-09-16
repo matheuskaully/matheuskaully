@@ -25,7 +25,7 @@
 </div>
 
 
-<div>
+<div style="max-widh=60%">
    
   ![Snake animation](https://github.com/matheuskaully/matheuskaully/blob/output/github-contribution-grid-snake.svg)
  
