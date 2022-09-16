@@ -1,5 +1,5 @@
 # 🤟 Shout out my dear! 
-## 🌍 welcome to my profile! I'm a technology student and a lover of FPS games.
+## 🌍 Welcome to my profile! I'm a technology student and a lover of FPS games.
 - 🌱 I'm currently learning Javascript and frameworks like ReactJS and NextJS;
 - 📫 How to contact me: matheuskaully@gmail.com
 <div align="center">
