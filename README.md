@@ -15,7 +15,7 @@
   <img align="center" alt="Kaullys-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaullys-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="right" alt="Kaullys-pic" height="150" style="border-radius:50%" src="https://cdn.discordapp.com/attachments/1020400583707983952/1020400970024366160/AREmoji_20220916_152156_27435.png?width=676&height=676">
+  <img align="right" alt="Kaullys-pic" height="200" style="border-radius:50%" src="https://cdn.discordapp.com/attachments/1020400583707983952/1020400970024366160/AREmoji_20220916_152156_27435.png?width=676&height=676">
 </div>
   
   ##
