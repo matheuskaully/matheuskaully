@@ -14,8 +14,6 @@
   <img align="center" alt="Kaullys-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaullys-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaullys-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img align="right" alt="Kaullys-pic" height="150" style="border-radius:50%" src="https://cdn.discordapp.com/attachments/1020400583707983952/1020400970024366160/AREmoji_20220916_152156_27435.png">
 </div>
 
 ##
@@ -25,7 +23,4 @@
   <a href="https://instagram.com/matheuskaully" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c792ea?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 3px;" target="_blank"></a>
   <a href = "mailto:matheuskaully@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c792ea?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 3px;" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheuskaully" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-c792ea?style=for-the-badge&logo=linkedin&logoColor=white"  style="border-radius: 3px;" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/matheuskaully/matheuskaully/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
