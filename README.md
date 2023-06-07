@@ -1,7 +1,7 @@
 # 🤟 I'am a developer! 
 ## 🌍 Welcome to my profile! I'm a technology student and a lover of FPS games.
-- 🌱 I'm currently learning Javascript and frameworks like ReactJS and NextJS;
-- 📫 How to contact me: matheuskaully@gmail.com
+- 🚀 I'm currently learning Javascript and frameworks like ReactJS and NextJS;
+- 📩 How to contact me: matheuskaully@gmail.com
 <div align="center">
   <a href="https://github.com/matheuskaully">
 </div>
