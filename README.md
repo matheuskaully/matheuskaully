@@ -1,5 +1,5 @@
 # 🌍 I'am a software developer! 
-
+- 🚀 I'm currently learning Javascript and frameworks like ReactJS and NextJS;
 - 📩 How to contact me: matheuskaully@gmail.com
 <div align="center">
   <a href="https://github.com/matheuskaully">
