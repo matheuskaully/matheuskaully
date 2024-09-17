@@ -12,4 +12,4 @@
   <a href="https://www.linkedin.com/in/matheuskaully" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-c792ea?style=for-the-badge&logo=linkedin&logoColor=#10b981"  style="border-radius: 3px;" target="_blank"></a> 
 </div>
 
-“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler
+<p style="font-style: bold";>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler</p>
