@@ -1,5 +1,3 @@
-<img align="right" src="https://cdn.discordapp.com/attachments/1020400583707983952/1285664988538601532/IMG_20240917_151312_122.png?ex=66eb1853&is=66e9c6d3&hm=4f7d4ccd29ff2d948d191abb5044b8112f244b3dfa397e1fa8a444f1bebd5b3c&" width="150"/>
-
 ### Hello dev, I'm Matheus Kaúlly 👋
 
 - 🚀 I am a front-end developer with experience in JavaScript, TypeScript, ReactJS, and TailwindCSS. I developed my creativity by editing gaming videos in my early years, but have since focused on building a strong career. Right now, I'm working on improving my skills in ReactJS and related tools. Although I'm employed, I’m dedicated to continuous learning and growth in front-end development.
