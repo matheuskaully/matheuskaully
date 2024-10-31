@@ -21,9 +21,7 @@
 </div>
 
 <div align="center" style="margin-top: 16px;">
-  <a href="https://app.rocketseat.com.br/me/matheuskaully">
-    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=matheuskaully&type=card" width="280" alt="Matheus Kaúlly's Rocket ID"/>
-  </a>
+  <a href="https://app.rocketseat.com.br/me/matheuskaully"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=matheuskaully&type=card" width="280" alt="Matheus Kaúlly's Rocket ID"/></a>
 </div>
 
 <p align="center" style="padding-top: 16px;">
