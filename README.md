@@ -8,6 +8,8 @@
   <a href="https://instagram.com/matheuskaully" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c792ea?style=for-the-badge&logo=instagram&logoColor=#10b981" style="border-radius: 3px;" target="_blank"></a>
   <a href = "mailto:matheuskaully@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c792ea?style=for-the-badge&logo=gmail&logoColor=#10b981" style="border-radius: 3px;" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheuskaully" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-c792ea?style=for-the-badge&logo=linkedin&logoColor=#10b981"  style="border-radius: 3px;" target="_blank"></a> 
+
+  <a href="https://app.rocketseat.com.br/me/matheuskaully"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=matheuskaully&type=card" width="280" alt="Matheus Kaúlly Dos Santos Rosa's Rocket ID"/></a>
 </div>
 
 <p style="padding-top: 16px;">“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler</p>
