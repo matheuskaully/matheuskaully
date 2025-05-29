@@ -1,6 +1,6 @@
 ### Hello dev, I'm Matheus Kaúlly 👋
 
-- 🚀 I am a front-end developer with experience in JavaScript, TypeScript, ReactJS, and TailwindCSS. I developed my creativity by editing gaming videos in my early years, but have since focused on building a strong career. Right now, I'm working on improving my skills in ReactJS and related tools. Although I'm employed, I’m dedicated to continuous learning and growth in front-end development.
+- 🚀 I am a front-end developer with experience in JavaScript, TypeScript, ReactJS, and TailwindCSS.
 - 📩 How to contact me: matheuskaully@gmail.com
 
 <div style="padding-bottom: 16px; display: flex; flex-direction: column; gap: 8px;">
