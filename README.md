@@ -1,6 +1,6 @@
 ### Hello dev, I'm Matheus Kaúlly 👋
 
-- 🚀 I am a front-end developer with experience in JavaScript, TypeScript, ReactJS, and TailwindCSS.
+- 🚀 I am a front-end developer with experience in JavaScript, TypeScript, ReactJS, and TailwindCSS
 - 📩 How to contact me: matheuskaully@gmail.com
 
 <div style="padding-bottom: 16px; display: flex; flex-direction: column; gap: 8px;">
