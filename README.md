@@ -1,4 +1,4 @@
-### Hello dev, I'm Matheus Kaúlly 👋
+### Hello, I'm Matheus Kaúlly 👋
 
 - 🚀 I am a front-end developer with experience in JavaScript, TypeScript, ReactJS, AngularJS and TailwindCSS
 - 📩 How to contact me: matheuskaully@gmail.com
