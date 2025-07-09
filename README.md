@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=matheuskaully&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=matheuskaully&color=blueviolet)
 
 ### Hello, I'm Matheus Kaúlly 👋
 
