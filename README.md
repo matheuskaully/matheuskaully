@@ -1,4 +1,4 @@
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=matheuskaully.matheuskaully&left_color=gray&right_color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=matheuskaully&color=blue)
 
 ### Hello, I'm Matheus Kaúlly 👋
 
