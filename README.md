@@ -1,3 +1,5 @@
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=matheuskaully.matheuskaully&left_color=gray&right_color=blue)
+
 ### Hello, I'm Matheus Kaúlly 👋
 
 - 🚀 I am a front-end developer with experience in JavaScript, TypeScript, ReactJS, AngularJS and TailwindCSS
