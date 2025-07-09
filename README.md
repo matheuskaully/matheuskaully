@@ -1,6 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=matheuskaully&color=blueviolet)
-
-# Matheus Kaúlly | Developer and Amateur Design.
+# Matheus Kaúlly | Developer and Amateur Design. ![Profile views](https://komarev.com/ghpvc/?username=matheuskaully&color=blueviolet)
 
 I'm a front-end developer focused on the most widely used language in the world: JavaScript. I have experience with frameworks like ReactJS, AngularJS, and TypeScript, along with other technologies that work great together to build modern, efficient interfaces.
 
