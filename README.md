@@ -1,4 +1,4 @@
-# Developer and Amateur Design. 
+# developer and amateur design. 
 
 I'm a front-end developer focused on the most widely used language in the world: JavaScript. I have experience with frameworks like ReactJS, AngularJS, and TypeScript, along with other technologies that work great together to build modern, efficient interfaces.
 
