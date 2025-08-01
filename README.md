@@ -3,7 +3,7 @@ I'm a front-end developer focused on the most widely used language in the world:
 I'm always learning and looking for ways to grow, keeping up with the latest trends and updates in tech.
 Like many dreamers out there, I truly believe that technology has the power to change lives and I have faith it will change mine someday.
 
-📩 How to contact me: matheuskaully@gmail.com
+📩 Contact me: matheuskaully@gmail.com
 
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler
 
